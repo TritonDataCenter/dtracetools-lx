@@ -1,4 +1,4 @@
-#!/usr/sbin/dtrace -s
+#!/native/usr/sbin/dtrace -s
 /*
  * Snoop new processes and arguments.
  *

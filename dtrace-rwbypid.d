@@ -1,4 +1,4 @@
-#!/usr/sbin/dtrace -s
+#!/native/usr/sbin/dtrace -s
 /*
  * rwbypid.d - read/write calls by PID.
  *             Written using DTrace (Solaris 10 3/05)

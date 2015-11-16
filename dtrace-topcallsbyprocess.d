@@ -1,4 +1,4 @@
-#!/usr/sbin/dtrace -s
+#!/native/usr/sbin/dtrace -s
 /*
  * zonecalls.d  show top 25 syscalls by zone and process.
  *

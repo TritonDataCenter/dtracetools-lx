@@ -1,4 +1,4 @@
-#!/usr/sbin/dtrace -s
+#!/native/usr/sbin/dtrace -s
 /*
  * syscallbysysc.d - report on syscalls by syscall. DTrace OneLiner.
  *

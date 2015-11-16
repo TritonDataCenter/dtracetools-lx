@@ -1,4 +1,4 @@
-#!/usr/sbin/dtrace -s
+#!/native/usr/sbin/dtrace -s
 /*
  * filebyproc.d - snoop files opened by process name. DTrace OneLiner.
  *

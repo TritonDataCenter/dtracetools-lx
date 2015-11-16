@@ -1,4 +1,4 @@
-#!/usr/sbin/dtrace -s
+#!/native/usr/sbin/dtrace -s
 /*
  * setuids.d - snoop setuid calls. This can examine user logins.
  *             Written in DTrace (Solaris 10 3/05).

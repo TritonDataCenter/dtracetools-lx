@@ -1,4 +1,4 @@
-#!/usr/sbin/dtrace -s
+#!/native/usr/sbin/dtrace -s
 /*
  * syscallbyproc.d - report on syscalls by process name . DTrace OneLiner.
  *

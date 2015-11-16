@@ -1,4 +1,4 @@
-#!/usr/sbin/dtrace -s
+#!/native/usr/sbin/dtrace -s
 /*
  * pridist.d - process priority distribution.
  *             Written using DTrace (Solaris 10 3/05)

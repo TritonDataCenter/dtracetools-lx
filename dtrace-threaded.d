@@ -1,4 +1,4 @@
-#!/usr/sbin/dtrace -s
+#!/native/usr/sbin/dtrace -s
 /*
  * threaded.d - sample multi-threaded CPU usage.
  *              Written using DTrace (Solaris 10 3/05).
